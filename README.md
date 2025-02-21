@@ -1,5 +1,3 @@
-# hcamachor
-README
 # HI!!!! 👋
 <img src="https://github.com/hcamachorsps/hcamachor/blob/main/BMO.png" width=40% height=20%>        
 
